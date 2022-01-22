@@ -1,0 +1,10 @@
+.cartbtn {
+  margin: 10px;
+  color: blue;
+  padding: 3px 20px;
+  font-size: 1.8rem;
+  outline: none;
+  border: none;
+  background-color: white;
+  cursor: pointer;
+}

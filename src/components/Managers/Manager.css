@@ -1,0 +1,14 @@
+.admin {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+}
+
+.admin > h1 {
+  background-color: rgb(106, 106, 231);
+  color: white;
+}
+
+.logout {
+  float: right;
+}
